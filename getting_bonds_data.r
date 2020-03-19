@@ -2,7 +2,7 @@
 library(tidyverse)
 
 
-# Downoad the file
+# Download the file
 
 temp <- tempfile()
 my_url <- "https://www.blackrock.com/us/individual/products/239566/ishares-iboxx-investment-grade-corporate-bond-etf/1464253357814.ajax?fileType=csv&fileName=LQD_holdings&dataType=fund"
