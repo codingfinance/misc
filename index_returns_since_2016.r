@@ -22,7 +22,7 @@ price_df %>%
 
 slowdown <- price_df %>%
   group_by(symbol) %>%
-  mutate(show_time = if_else(date %in% c(ymd("2020-03-16"),ymd("2020-03-17"),ymd("2020-03-18")),10,1),
+  mutate(show_time = if_else(date == max(date),35,1),
          reveal_time = cumsum(show_time)) %>%
   ungroup()
 
@@ -43,13 +43,15 @@ p <- slowdown %>%
   geom_text(aes(x = ymd("2020-03-22"), label = symbol), hjust = 0) +
   scale_y_continuous(breaks = seq(-0.35,1, 0.1),
                      labels = scales::percent) +
-  transition_reveal(date, keep_last = FALSE) +
+  transition_reveal(date) +
   coord_cartesian(clip = 'off') + 
   labs(title = 'Major Index Returns since Trump\'s Elections in 2016', y = 'Returns (%)') + 
   theme_minimal() 
 
 
-animate(p, nframe = 200)
+animate(p, nframe = 200, end_pause = 20)
+ 
 
+# anim_save("index_since_Trump_election.gif")
 
 
