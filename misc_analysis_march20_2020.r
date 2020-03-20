@@ -2,17 +2,24 @@ library(tidyquant)
 library(tidyverse)
 library(ggthemes)
 
+# Analyze the past bear markets
+
+# Get all data
 spx_price <- tq_get("^GSPC",
                     from = "1950-1-1",
                     get = "stock.prices")
-# Price chart
+
+# Plot 1987 crash price chart
+
 spx_price %>%
   filter(date >= "1987-09-1" &
            date <= "1989-1-1") %>%
   ggplot(aes(x = date, y = adjusted)) +
   geom_line()
 
-# Percent Returns
+
+# Plot 1987 crash Percent Returns charts
+
 spx_price %>%
   filter(date >= "1987-09-1" &
            date <= "1989-1-1") %>%
@@ -26,7 +33,7 @@ spx_price %>%
 
 
 
-# 2008-09 -----------------------------------------------------------------
+# Plot the crash of 2008-09 -----------------------------------------------------------------
 
 spx_price %>%
   filter(date >= "2008-08-1" &
@@ -47,7 +54,7 @@ spx_price %>%
 
 
 
-# 2020 --------------------------------------------------------------------
+# Plot the crash of 2020 --------------------------------------------------------------------
 
 spx_price %>%
   filter(date >= "1987-09-1" &
@@ -67,11 +74,13 @@ spx_price %>%
   geom_line()
 
 
-# Russell 2000 ------------------------------------------------------------
+# Russell 2000 returns ------------------------------------------------------------
 
 iwm <- tq_get("IWM",
               from = "2000-1-1",
               get = "stock.prices")
+
+# Plot returns since double Top
 
 iwm %>%
   filter(date >= "2018-08-1") %>%
@@ -83,6 +92,7 @@ iwm %>%
   ggplot(aes(x = date, y = cr)) +
   geom_line()
 
+# IWM Returns since 2007
 
 iwm %>%
   filter(date>= "2007-1-1") %>%
@@ -92,6 +102,8 @@ iwm %>%
                col_rename = 'ret') %>%
   ggplot(aes(x = date, y = ret)) +
   geom_point()
+
+# Plot the histogram of IWM returns
 
 iwm %>%
   filter(date>= "2007-1-1") %>%
@@ -103,7 +115,7 @@ iwm %>%
   geom_histogram(binwidth = 0.01)
 
 
-
+# Plot mothly returns since 1950 for SPX
 
 spx_price %>%
   tq_transmute(select = adjusted,
@@ -114,6 +126,7 @@ spx_price %>%
   geom_line()
 
 
+# Worst monthly returns
 
 spx_price %>%
   tq_transmute(select = adjusted,
@@ -123,6 +136,7 @@ spx_price %>%
   filter(ret == min(ret))
 
 
+# Top 10 worst monthly returns
 
 spx_price %>%
   tq_transmute(select = adjusted,
