@@ -13,7 +13,7 @@ int_rates <- tq_get(int_symbols,
 # write.csv(int_rates,'int_rates.csv', row.names = FALSE)
 
 
-int_rates %>% 
+int_rates %>%
   tbl_time(date) %>%
   filter(!symbol %in% c("DGS3", "DGS20")) %>%
   ggplot(aes(x = date, y = price, color = symbol)) +
@@ -42,14 +42,14 @@ int_rates %>%
   scale_color_discrete(name = 'Maturity',
                        labels = c("10 Years", "2 Years", "30 Years")) +
   theme_fivethirtyeight()
-  
-  
+
+
 
 # Interest Rates Since 2008 -----------------------------------------------
 
 
 
-int_rates %>% 
+int_rates %>%
   tbl_time(date) %>%
   filter(!symbol %in% c("DGS3", "DGS20")) %>%
   ggplot(aes(x = date, y = price, color = symbol)) +
@@ -82,11 +82,4 @@ int_rates %>%
                ylim = c(0,7.5))
 
 
-  
-
-  
-
-
-
-
-
+  # -----------------------------------------------
