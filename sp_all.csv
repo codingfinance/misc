@@ -1,0 +1,506 @@
+"symbol","company","weight","sector","shares_held"
+"AAPL","Apple Inc.",0.03650930583913,"Information Technology",59824290
+"MSFT","Microsoft Corporation",0.0263168873026033,"Information Technology",88583400
+"AMZN","Amazon.com Inc.",0.0190610844950666,"Consumer Discretionary",4551822
+"JNJ","Johnson & Johnson",0.0175931668878174,"Health Care",30909580
+"FB","Facebook Inc. Class A",0.017545455437861,"Information Technology",27120374
+"XOM","Exxon Mobil Corporation",0.0165509598962348,"Energy",48611468
+"BRK.B","Berkshire Hathaway Inc. Class B",0.0152044323056429,"Financials",21794192
+"JPM","JPMorgan Chase & Co.",0.014772367501486,"Financials",40765170
+"GOOGL","Alphabet Inc. Class A",0.0140480800729417,"Information Technology",3414752
+"GOOG","Alphabet Inc. Class C",0.013791500943677,"Information Technology",3423557
+"GE","General Electric Company",0.0115022219196228,"Industrials",100000930
+"WFC","Wells Fargo & Company",0.0112955957178293,"Financials",51620544
+"T","AT&T Inc.",0.011168341835888,"Telecommunication Services",70540030
+"PG","Procter & Gamble Company",0.0109475162743025,"Consumer Staples",29345400
+"BAC","Bank of America Corporation",0.01087138609157,"Financials",114189990
+"PFE","Pfizer Inc.",0.00976116426664965,"Health Care",68472430
+"CVX","Chevron Corporation",0.00952230681898587,"Energy",21737596
+"CMCSA","Comcast Corporation Class A",0.00894033319943507,"Consumer Discretionary",54251944
+"PM","Philip Morris International Inc.",0.00888872918361596,"Consumer Staples",17820196
+"VZ","Verizon Communications Inc.",0.0088633224362503,"Telecommunication Services",46805340
+"MRK","Merck & Co. Inc.",0.00868079211774025,"Health Care",31450142
+"HD","Home Depot Inc.",0.00866023856945783,"Consumer Discretionary",13718957
+"UNH","UnitedHealth Group Incorporated",0.00854523276107912,"Health Care",11056680
+"V","Visa Inc. Class A",0.00844730821215421,"Information Technology",21184112
+"C","Citigroup Inc",0.00835726886091505,"Financials",31591168
+"KO","Coca-Cola Company",0.00832926039857693,"Consumer Staples",44121140
+"PEP","PepsiCo Inc.",0.00799756175278058,"Consumer Staples",16390014
+"INTC","Intel Corporation",0.00770696019695303,"Information Technology",54031012
+"CSCO","Cisco Systems Inc.",0.00768587629908006,"Information Technology",57409320
+"ORCL","Oracle Corporation",0.00732561882816296,"Information Technology",34463450
+"DIS","Walt Disney Company",0.00726068602640803,"Consumer Discretionary",16676411
+"MO","Altria Group Inc.",0.00707271211964791,"Consumer Staples",22163608
+"IBM","International Business Machines Corporation",0.00632610998191678,"Information Technology",9839316
+"MMM","3M Company",0.00609014444051085,"Industrials",6856629
+"AMGN","Amgen Inc.",0.00607496443430616,"Health Care",8441374
+"MCD","McDonald's Corporation",0.00603352712007174,"Consumer Discretionary",9352078
+"MDT","Medtronic plc",0.00583880876757532,"Health Care",15689826
+"MA","Mastercard Incorporated Class A",0.00558729297591093,"Information Technology",10799505
+"ABBV","AbbVie Inc.",0.00553586907882069,"Health Care",18267076
+"BA","Boeing Company",0.00543437217510667,"Industrials",6441134
+"WMT","Wal-Mart Stores Inc.",0.00529221847164996,"Consumer Staples",16949742
+"CELG","Celgene Corporation",0.005019908973398,"Health Care",8958720
+"HON","Honeywell International Inc.",0.00488952302689364,"Industrials",8746874
+"AVGO","Broadcom Limited",0.00470512147492263,"Information Technology",4598364
+"BMY","Bristol-Myers Squibb Company",0.0044669845021743,"Health Care",18903858
+"PCLN","Priceline Group Inc",0.00441083749174944,"Consumer Discretionary",564086
+"GILD","Gilead Sciences Inc.",0.00440807567124021,"Health Care",14982897
+"SLB","Schlumberger NV",0.00439613780215505,"Energy",15982602
+"NVDA","NVIDIA Corporation",0.00438104785531479,"Information Technology",6826464
+"UTX","United Technologies Corporation",0.00437963692527203,"Industrials",8589243
+"UNP","Union Pacific Corporation",0.00417831421938399,"Industrials",9264754
+"SBUX","Starbucks Corporation",0.00414605295372551,"Consumer Discretionary",16615728
+"ABT","Abbott Laboratories",0.00407668722992135,"Health Care",19909544
+"QCOM","QUALCOMM Incorporated",0.00402039012055577,"Information Technology",16933162
+"AGN","Allergan plc",0.00396229182390156,"Health Care",3853534
+"LLY","Eli Lilly and Company",0.00389915020283921,"Health Care",11140845
+"USB","U.S. Bancorp",0.0038684299529721,"Financials",18263584
+"GS","Goldman Sachs Group Inc.",0.00380610887278567,"Financials",4200491
+"TXN","Texas Instruments Incorporated",0.00380483803508759,"Information Technology",11460174
+"CVS","CVS Health Corporation",0.0037752285173818,"Consumer Staples",11689749
+"TWX","Time Warner Inc.",0.00369262406700625,"Consumer Discretionary",8877657
+"ACN","Accenture Plc Class A",0.00365524943076728,"Information Technology",7138212
+"UPS","United Parcel Service Inc. Class B",0.00362552984050497,"Industrials",7880849
+"ADBE","Adobe Systems Incorporated",0.00344178872387312,"Information Technology",5673463
+"CHTR","Charter Communications Inc. Class A",0.00341533128392242,"Consumer Discretionary",2474719
+"DOW","Dow Chemical Company",0.00341469086177536,"Materials",12895617
+"DD","E. I. du Pont de Nemours and Company",0.00336131567845577,"Materials",9948009
+"LMT","Lockheed Martin Corporation",0.00335073870643312,"Industrials",2861869
+"NKE","NIKE Inc. Class B",0.00334938781596665,"Consumer Discretionary",15190734
+"COST","Costco Wholesale Corporation",0.00329897458507724,"Consumer Staples",5032447
+"MDLZ","Mondelez International Inc. Class A",0.00327767054209123,"Consumer Staples",17497600
+"TMO","Thermo Fisher Scientific Inc.",0.00325647657166174,"Health Care",4474674
+"NFLX","Netflix Inc.",0.00325310434879359,"Consumer Discretionary",4934521
+"CB","Chubb Limited",0.00322720727822159,"Financials",5340325
+"CL","Colgate-Palmolive Company",0.00320872509532108,"Consumer Staples",10130601
+"NEE","NextEra Energy Inc.",0.00320771442912024,"Utilities",5371467
+"LOW","Lowe's Companies Inc.",0.00312462966213439,"Consumer Discretionary",9845640
+"WBA","Walgreens Boots Alliance Inc",0.00311954631134205,"Consumer Staples",9794856
+"MS","Morgan Stanley",0.00297893362367672,"Financials",16343211
+"AXP","American Express Company",0.00295494781294986,"Financials",8614514
+"CAT","Caterpillar Inc.",0.00293602533982325,"Industrials",6759671
+"PYPL","PayPal Holdings Inc",0.00291821359885796,"Information Technology",12874669
+"DUK","Duke Energy Corporation",0.00287706647590893,"Utilities",8022542
+"BIIB","Biogen Inc.",0.00286643947090604,"Health Care",2451023
+"CRM","salesforce.com inc.",0.00283616951786109,"Information Technology",7671128
+"PNC","PNC Financial Services Group Inc.",0.00277400854321143,"Financials",5561830
+"GD","General Dynamics Corporation",0.00273750448082863,"Industrials",3259318
+"MET","MetLife Inc.",0.00271706100510273,"Financials",12462020
+"AMT","American Tower Corporation",0.00269455617059097,"Real Estate",4897426
+"COP","ConocoPhillips",0.00264887605963223,"Energy",14162892
+"AIG","American International Group Inc.",0.00264867592771127,"Financials",10074158
+"RAI","Reynolds American Inc.",0.00260043412816426,"Consumer Staples",9494437
+"KHC","Kraft Heinz Company",0.0025375426720031,"Consumer Staples",6845649
+"FDX","FedEx Corporation",0.00252590500079938,"Industrials",2811459
+"DHR","Danaher Corporation",0.00249966770596174,"Health Care",6994595
+"MON","Monsanto Company",0.00245796021363402,"Materials",5034703
+"BLK","BlackRock Inc.",0.0024419596665534,"Financials",1388280
+"BK","Bank of New York Mellon Corporation",0.00243918783944813,"Financials",11890596
+"EOG","EOG Resources Inc.",0.0024258790667044,"Energy",6623429
+"SCHW","Charles Schwab Corporation",0.00241861427797361,"Financials",13929123
+"AET","Aetna Inc.",0.00240994856579612,"Health Care",3797851
+"ANTM","Anthem Inc.",0.00240459503691048,"Health Care",3030817
+"SPG","Simon Property Group Inc.",0.0023749655060126,"Real Estate",3582555
+"SO","Southern Company",0.00236294758415905,"Utilities",11364091
+"D","Dominion Energy Inc",0.00236018576364983,"Utilities",7216800
+"CSX","CSX Corporation",0.00233235742004057,"Industrials",10618337
+"RTN","Raytheon Company",0.00227235787013726,"Industrials",3354729
+"AMAT","Applied Materials Inc.",0.00227059670923282,"Information Technology",12344099
+"KMB","Kimberly-Clark Corporation",0.0022526949089031,"Consumer Staples",4081322
+"GM","General Motors Company",0.00224803183514477,"Consumer Discretionary",15755586
+"OXY","Occidental Petroleum Corporation",0.00219085414532698,"Energy",8734791
+"ADP","Automatic Data Processing Inc.",0.00217555405996971,"Information Technology",5142192
+"ITW","Illinois Tool Works Inc.",0.00217423318929139,"Industrials",3574929
+"NOC","Northrop Grumman Corporation",0.00214921669917159,"Industrials",2001382
+"TJX","TJX Companies Inc",0.0021330960729384,"Consumer Discretionary",7381164
+"BDX","Becton Dickinson and Company",0.0021236998792494,"Health Care",2608453
+"PRU","Prudential Financial Inc.",0.0021196271946579,"Financials",4915488
+"SYK","Stryker Corporation",0.00209569141691129,"Health Care",3559578
+"CI","Cigna Corporation",0.00207655880526767,"Health Care",2934616
+"F","Ford Motor Company",0.00206686241369724,"Consumer Discretionary",44874776
+"CME","CME Group Inc. Class A",0.00200866405108255,"Financials",3879039
+"ATVI","Activision Blizzard Inc.",0.00199996831911691,"Information Technology",7931543
+"MMC","Marsh & McLennan Companies Inc.",0.001924598637684,"Financials",5909768
+"CTSH","Cognizant Technology Solutions Corporation Class A",0.00190006246417451,"Information Technology",6759191
+"REGN","Regeneron Pharmaceuticals Inc.",0.00188176040000287,"Health Care",871877
+"JCI","Johnson Controls International plc",0.00187059303881339,"Industrials",10721462
+"DAL","Delta Air Lines Inc.",0.00185851507738356,"Industrials",8417934
+"ESRX","Express Scripts Holding Company",0.00185316154849792,"Health Care",6810695
+"BSX","Boston Scientific Corporation",0.00184192414113611,"Health Care",15711745
+"ICE","Intercontinental Exchange Inc.",0.00183128712953718,"Financials",6828726
+"COF","Capital One Financial Corporation",0.00183007633141538,"Financials",5516341
+"EMR","Emerson Electric Co.",0.00182285156906878,"Industrials",7395520
+"SPGI","S&P Global Inc.",0.00181300507855763,"Financials",2962287
+"PX","Praxair Inc.",0.00180723127263798,"Materials",3261933
+"LUV","Southwest Airlines Co.",0.00179238148410288,"Industrials",6938400
+"CCI","Crown Castle International Corp",0.0017495332398257,"Real Estate",4200269
+"DE","Deere & Company",0.00173285224421382,"Industrials",3360483
+"KMI","Kinder Morgan Inc Class P",0.0017223853447477,"Energy",21971688
+"HAL","Halliburton Company",0.0017209443949168,"Energy",9939783
+"EBAY","eBay Inc.",0.00171919324060841,"Information Technology",11585086
+"TRV","Travelers Companies Inc.",0.00170735543748373,"Financials",3205730
+"PSX","Phillips 66",0.00170136148645102,"Energy",5080443
+"MCK","McKesson Corporation",0.0016885130171255,"Health Care",2424095
+"AEP","American Electric Power Company Inc.",0.00168264915184142,"Utilities",5636946
+"BBT","BB&T Corporation",0.00167621491058261,"Financials",9306958
+"ISRG","Intuitive Surgical Inc.",0.00166617829474655,"Health Care",420865
+"PCG","PG&E Corporation",0.00166269599932187,"Utilities",5858311
+"AON","Aon plc",0.00166011429754151,"Financials",3005447
+"NSC","Norfolk Southern Corporation",0.00165731245064809,"Industrials",3330110
+"ETN","Eaton Corp. Plc",0.00165217906687551,"Industrials",5151123
+"ECL","Ecolab Inc.",0.00165184884920593,"Materials",3007299
+"HUM","Humana Inc.",0.00164737590077251,"Health Care",1656183
+"EA","Electronic Arts Inc.",0.00163522789317034,"Information Technology",3535281
+"INTU","Intuit Inc.",0.00163214586158758,"Information Technology",2786441
+"EXC","Exelon Corporation",0.00161807658754421,"Utilities",10625883
+"EQIX","Equinix Inc.",0.00161264300589019,"Real Estate",890505
+"VRTX","Vertex Pharmaceuticals Incorporated",0.00158642572424465,"Health Care",2848378
+"MU","Micron Technology Inc.",0.00157613894350739,"Information Technology",11906461
+"MAR","Marriott International Inc. Class A",0.00156465137124438,"Consumer Discretionary",3604071
+"GIS","General Mills Inc.",0.00155124253254017,"Consumer Staples",6646836
+"ALL","Allstate Corporation",0.00153802381916088,"Financials",4185485
+"STZ","Constellation Brands Inc. Class A",0.00152390451213727,"Consumer Staples",1979049
+"PSA","Public Storage",0.00151559903741749,"Real Estate",1704665
+"APD","Air Products and Chemicals Inc.",0.00150229026467377,"Materials",2484417
+"AFL","Aflac Incorporated",0.00148943178875219,"Financials",4600620
+"STT","State Street Corporation",0.00147701360305673,"Financials",4058154
+"ZTS","Zoetis Inc. Class A",0.00147606297643217,"Health Care",5635620
+"PLD","Prologis Inc.",0.00147512235640367,"Real Estate",6042040
+"HPQ","HP Inc.",0.00144635339276591,"Information Technology",19476568
+"BAX","Baxter International Inc.",0.00143430545112422,"Health Care",5601121
+"ADI","Analog Devices Inc.",0.00143262434298817,"Information Technology",4210839
+"VLO","Valero Energy Corporation",0.00142441893422888,"Energy",5174703
+"WM","Waste Management Inc.",0.001420476335386,"Industrials",4636803
+"SHW","Sherwin-Williams Company",0.00138650394180332,"Materials",930657
+"FOXA","Twenty-First Century Fox Inc. Class A",0.00137492631017588,"Consumer Discretionary",12120710
+"PPG","PPG Industries Inc.",0.0013604167459064,"Materials",2946198
+"HCN","Welltower Inc.",0.00135708454942244,"Real Estate",4201033
+"ALXN","Alexion Pharmaceuticals Inc.",0.00135452286083418,"Health Care",2575340
+"TGT","Target Corporation",0.00134905925939201,"Consumer Discretionary",6370435
+"SRE","Sempra Energy",0.00134877907470267,"Utilities",2865833
+"HPE","Hewlett Packard Enterprise Co.",0.00133866240609823,"Information Technology",19042806
+"FIS","Fidelity National Information Services Inc.",0.00133426951043319,"Information Technology",3769659
+"TEL","TE Connectivity Ltd.",0.00133213810547499,"Information Technology",4053668
+"GLW","Corning Inc",0.00133064712266385,"Information Technology",10635189
+"CCL.U","Carnival Corporation",0.00132921617942899,"Consumer Discretionary",4794688
+"WDC","Western Digital Corporation",0.00130122773028297,"Information Technology",3341520
+"ILMN","Illumina Inc.",0.00129105102210224,"Health Care",1670216
+"MPC","Marathon Petroleum Corporation",0.0012910210023141,"Energy",6008758
+"FISV","Fiserv Inc.",0.00128030393794678,"Information Technology",2459002
+"STI","SunTrust Banks Inc.",0.00127887299471192,"Financials",5631793
+"AVB","AvalonBay Communities Inc.",0.00127427996712593,"Real Estate",1574183
+"PXD","Pioneer Natural Resources Company",0.00126633472986388,"Energy",1946601
+"LYB","LyondellBasell Industries NV",0.001265314057067,"Materials",3783092
+"PPL","PPL Corporation",0.00126242215080915,"Utilities",7792869
+"EIX","Edison International",0.00124715208524003,"Utilities",3735297
+"ZBH","Zimmer Biomet Holdings Inc.",0.00124164845741367,"Health Care",2305506
+"PGR","Progressive Corporation",0.0012343236291066,"Financials",6665014
+"NWL","Newell Brands Inc",0.00122792941423198,"Consumer Discretionary",5542908
+"ED","Consolidated Edison Inc.",0.00122329636026179,"Utilities",3497344
+"WY","Weyerhaeuser Company",0.00122308622174479,"Real Estate",8587191
+"APC","Anadarko Petroleum Corporation",0.00121240918376166,"Energy",6386982
+"EW","Edwards Lifesciences Corporation",0.00121223907162885,"Health Care",2418373
+"VTR","Ventas Inc.",0.00121100826031495,"Real Estate",4047298
+"YUM","Yum! Brands Inc.",0.0012021224030244,"Consumer Discretionary",3851153
+"CAH","Cardinal Health Inc.",0.00120200232387183,"Health Care",3615895
+"HCA","HCA Healthcare Inc",0.00118991435584594,"Health Care",3307238
+"SYY","Sysco Corporation",0.0011855814997572,"Consumer Staples",5692684
+"EQR","Equity Residential",0.00118014791810318,"Real Estate",4208823
+"LRCX","Lam Research Corporation",0.00117817661868174,"Information Technology",1860604
+"CMI","Cummins Inc.",0.00117717595907694,"Industrials",1773044
+"MTB","M&T Bank Corporation",0.0011636770610083,"Financials",1767159
+"AAL","American Airlines Group Inc.",0.00114683595985966,"Industrials",5652683
+"XEL","Xcel Energy Inc.",0.00114552509577738,"Utilities",5825923
+"WMB","Williams Companies Inc.",0.00113575865803462,"Energy",9469059
+"CBS","CBS Corporation Class B",0.00113143580854192,"Consumer Discretionary",4263471
+"IR","Ingersoll-Rand Plc",0.00113036510276479,"Industrials",2974791
+"ROP","Roper Technologies Inc.",0.00112807359226982,"Industrials",1167960
+"ADM","Archer-Daniels-Midland Company",0.00112410097363879,"Consumer Staples",6546165
+"IP","International Paper Company",0.00112359063724035,"Materials",4737344
+"DLPH","Delphi Automotive PLC",0.00110820049251865,"Consumer Discretionary",3087634
+"DFS","Discover Financial Services",0.00110654940417075,"Financials",4417608
+"APH","Amphenol Corporation Class A",0.00110439798602045,"Information Technology",3525820
+"INCY","Incyte Corporation",0.00110184630402823,"Health Care",1937965
+"BHI","Baker Hughes Incorporated",0.00109963484630164,"Energy",4881972
+"BCR","C. R. Bard Inc.",0.00109784366560906,"Health Care",832795
+"SYF","Synchrony Financial",0.00106697331680124,"Financials",8828018
+"DXC","DXC Technology Co.",0.00106503203716794,"Information Technology",3253669
+"ROST","Ross Stores Inc.",0.00106078924044362,"Consumer Discretionary",4517065
+"PEG","Public Service Enterprise Group Inc",0.0010548953553714,"Utilities",5803398
+"PCAR","PACCAR Inc",0.00104910153625966,"Industrials",4022788
+"SWK","Stanley Black & Decker Inc.",0.00104412825802384,"Industrials",1749544
+"EL","Estee Lauder Companies Inc. Class A",0.0010392950721327,"Consumer Staples",2568444
+"UAL","United Continental Holdings Inc.",0.00103587281628431,"Industrials",3233409
+"PH","Parker-Hannifin Corporation",0.00101389833136308,"Industrials",1522428
+"ADSK","Autodesk Inc.",0.00100968555442691,"Information Technology",2246101
+"MNST","Monster Beverage Corporation",0.00100516257301325,"Consumer Staples",4634227
+"ROK","Rockwell Automation Inc.",0.00100291108890247,"Industrials",1482160
+"KR","Kroger Co.",0.000998328067912526,"Consumer Staples",10588267
+"NTRS","Northern Trust Corporation",0.000967237573991648,"Financials",2466135
+"ORLY","O'Reilly Automotive Inc.",0.000964135529216794,"Consumer Discretionary",1050062
+"WEC","WEC Energy Group Inc",0.000958631901390439,"Utilities",3620868
+"MCO","Moody's Corporation",0.000958361723297146,"Financials",1913333
+"CERN","Cerner Corporation",0.000958161591376188,"Health Care",3361624
+"KEY","KeyCorp",0.000939069006116762,"Financials",12574843
+"ES","Eversource Energy",0.000934726143431966,"Utilities",3599202
+"DTE","DTE Energy Company",0.000934505998318912,"Utilities",2057096
+"OMC","Omnicom Group Inc",0.000928151809828485,"Consumer Discretionary",2700909
+"BXP","Boston Properties Inc.",0.000924819613344528,"Real Estate",1765353
+"AMP","Ameriprise Financial Inc.",0.000924699534191953,"Financials",1765395
+"FTV","Fortive Corp.",0.00092288834030728,"Industrials",3451030
+"A","Agilent Technologies Inc.",0.000922818294134945,"Health Care",3700775
+"SWKS","Skyworks Solutions Inc.",0.000922818294134945,"Information Technology",2119538
+"DLR","Digital Realty Trust Inc.",0.000921857660914345,"Real Estate",1833123
+"PAYX","Paychex Inc.",0.000909399448834688,"Information Technology",3679597
+"HIG","Hartford Financial Services Group Inc.",0.000904846447632886,"Financials",4215483
+"MCHP","Microchip Technology Incorporated",0.00089594057715024,"Information Technology",2632098
+"WLTW","Willis Towers Watson Public Limited Company",0.000895420234155748,"Financials",1476521
+"RCL","Royal Caribbean Cruises Ltd.",0.000891677767233827,"Consumer Discretionary",1910697
+"EXPE","Expedia Inc.",0.000889486322699334,"Consumer Discretionary",1380594
+"FITB","Fifth Third Bancorp",0.000884463011483279,"Financials",8597020
+"NUE","Nucor Corporation",0.000876898024871054,"Materials",3655448
+"TSN","Tyson Foods Inc. Class A",0.000870053513174279,"Consumer Staples",3321364
+"TROW","T. Rowe Price Group",0.000866391099020742,"Financials",2816240
+"VFC","V.F. Corporation",0.000865520525164573,"Consumer Discretionary",3676417
+"NEM","Newmont Mining Corporation",0.00086298885636445,"Materials",6118101
+"RHT","Red Hat Inc.",0.000855984239130908,"Information Technology",2063731
+"MYL","Mylan N.V.",0.00085237185795761,"Health Care",5234663
+"SYMC","Symantec Corporation",0.000848039001868862,"Information Technology",7124800
+"CLX","Clorox Company",0.00084780885015976,"Consumer Staples",1462923
+"DG","Dollar General Corporation",0.000847228467588981,"Consumer Discretionary",2911489
+"K","Kellogg Company",0.000841834912319153,"Consumer Staples",2859748
+"CFG","Citizens Financial Group Inc.",0.00083959343480442,"Financials",5834906
+"LVLT","Level 3 Communications Inc.",0.000839213184154599,"Telecommunication Services",3349243
+"ESS","Essex Property Trust Inc.",0.000834570123588366,"Real Estate",752634
+"APA","Apache Corporation",0.000833799615692676,"Energy",4337179
+"VMC","Vulcan Materials Company",0.00083118789412417,"Materials",1506707
+"CXO","Concho Resources Inc.",0.000825524160761049,"Energy",1698778
+"DPS","Dr Pepper Snapple Group Inc.",0.00081869966225637,"Consumer Staples",2112144
+"COL","Rockwell Collins Inc.",0.000814747056817442,"Industrials",1860984
+"XLNX","Xilinx Inc.",0.000811514926293965,"Information Technology",2880429
+"EFX","Equifax Inc.",0.000799366918691794,"Industrials",1374588
+"PFG","Principal Financial Group Inc.",0.000796675144354904,"Financials",3051436
+"ULTA","Ulta Beauty Inc",0.000792692519127833,"Consumer Discretionary",667364
+"AZO","AutoZone Inc.",0.000790941364819448,"Consumer Discretionary",329725
+"RF","Regions Financial Corporation",0.000782065514124946,"Financials",13814102
+"VNO","Vornado Realty Trust",0.000775210995832123,"Real Estate",1972961
+"DVN","Devon Energy Corporation",0.000766985573880735,"Energy",6031596
+"TAP","Molson Coors Brewing Company Class B",0.000764543964445043,"Consumer Staples",2118589
+"ABC","AmerisourceBergen Corporation",0.000761632044995099,"Health Care",1905241
+"DLTR","Dollar Tree Inc.",0.000754557381589222,"Consumer Discretionary",2715685
+"MTD","Mettler-Toledo International Inc.",0.000747292592858434,"Health Care",298715
+"FCX","Freeport-McMoRan Inc.",0.000742619512504057,"Materials",15136304
+"HSY","Hershey Company",0.000738436755356028,"Consumer Staples",1611874
+"MHK","Mohawk Industries Inc.",0.000738356702587645,"Consumer Discretionary",717977
+"HCP","HCP Inc.",0.000738276649819261,"Real Estate",5299805
+"CAG","Conagra Brands Inc.",0.000736015159112432,"Consumer Staples",4738615
+"LH","Laboratory Corporation of America Holdings",0.000735014499507641,"Health Care",1161984
+"KLAC","KLA-Tencor Corporation",0.000734203965227759,"Information Technology",1796686
+"BEN","Franklin Resources Inc.",0.00072780975035314,"Financials",3966637
+"DGX","Quest Diagnostics Incorporated",0.00072084515950379,"Health Care",1575059
+"O","Realty Income Corporation",0.000717382877271211,"Real Estate",3110563
+"BBY","Best Buy Co. Inc.",0.000714450944629171,"Consumer Discretionary",3103469
+"LNC","Lincoln National Corporation",0.000709187475107967,"Financials",2613211
+"WAT","Waters Corporation",0.000709067395955392,"Health Care",916368
+"XRAY","DENTSPLY SIRONA Inc.",0.000707536386760061,"Health Care",2656541
+"RSG","Republic Services Inc.",0.000705785232451675,"Industrials",2641667
+"BLL","Ball Corporation",0.000705064757536225,"Materials",4017129
+"IDXX","IDEXX Laboratories Inc.",0.000703773906646044,"Health Care",1008020
+"INFO","IHS Markit Ltd.",0.000702623148100533,"Industrials",3617936
+"ADS","Alliance Data Systems Corporation",0.000699310964808673,"Information Technology",641611
+"HSIC","Henry Schein Inc.",0.000697419718155617,"Health Care",907685
+"CNC","Centene Corporation",0.000693937422730942,"Health Care",1976631
+"AWK","American Water Works Company Inc.",0.000692026162885789,"Utilities",2044562
+"MLM","Martin Marietta Materials Inc.",0.000691585872659681,"Materials",726202
+"DISH","DISH Network Corporation Class A",0.000690625239439081,"Consumer Discretionary",2591009
+"MSI","Motorola Solutions Inc.",0.000688553874057162,"Information Technology",1861956
+"IVZ","Invesco Ltd.",0.000685541888646739,"Financials",4698900
+"WRK","WestRock Co.",0.000684751367558954,"Materials",2863923
+"SJM","J. M. Smucker Company",0.000681629309592004,"Consumer Staples",1353399
+"ETR","Entergy Corporation",0.000677736743729364,"Utilities",2056586
+"WHR","Whirlpool Corporation",0.000671592693755943,"Consumer Discretionary",853174
+"AME","AMETEK Inc.",0.000669091044743964,"Industrials",2653947
+"GPN","Global Payments Inc.",0.000663647456493897,"Information Technology",1743082
+"HST","Host Hotels & Resorts Inc.",0.000662856935406112,"Real Estate",8487314
+"HRS","Harris Corporation",0.000657593465884907,"Information Technology",1415054
+"TSO","Tesoro Corporation",0.000657383327367901,"Energy",1707524
+"WFM","Whole Foods Market Inc.",0.000655311961985982,"Consumer Staples",3657562
+"HBAN","Huntington Bancshares Incorporated",0.000653150537239632,"Financials",12317521
+"GGP","GGP Inc.",0.000650598855247414,"Real Estate",6588267
+"CHD","Church & Dwight Co. Inc.",0.000648797667958788,"Consumer Staples",2932001
+"AEE","Ameren Corporation",0.00064240345308417,"Utilities",2752617
+"GPC","Genuine Parts Company",0.00064230338712369,"Consumer Discretionary",1696683
+"CTL","CenturyLink Inc.",0.000641242687942611,"Telecommunication Services",6296670
+"HLT","Hilton Worldwide Holdings Inc",0.000637930504650751,"Consumer Discretionary",2338040
+"TDG","TransDigm Group Incorporated",0.000637770399113984,"Industrials",570152
+"COH","Coach Inc.",0.000628584343941996,"Consumer Discretionary",3225612
+"FOX","Twenty-First Century Fox Inc. Class B",0.000627903895410738,"Consumer Discretionary",5588770
+"LLL","L3 Technologies Inc.",0.000625752477260436,"Industrials",893437
+"CMS","CMS Energy Corporation",0.000625032002344986,"Utilities",3166729
+"HOLX","Hologic Inc.",0.00061828755660869,"Health Care",3212676
+"NBL","Noble Energy Inc.",0.00061444502372629,"Energy",5222677
+"LB","L Brands Inc.",0.000613774581791079,"Consumer Discretionary",2751956
+"FE","FirstEnergy Corp.",0.00061218353301946,"Utilities",5075679
+"L","Loews Corporation",0.000609841989544248,"Financials",3158524
+"VRSK","Verisk Analytics Inc",0.000601806692917771,"Industrials",1751469
+"NLSN","Nielsen Holdings Plc",0.000597794047902556,"Industrials",3825124
+"CTXS","Citrix Systems Inc.",0.000597683975346029,"Information Technology",1759769
+"FTI","TechnipFMC Plc",0.000597283711504112,"Energy",5362002
+"CMA","Comerica Incorporated",0.000596132952958602,"Financials",2016791
+"MAS","Masco Corporation",0.000595972847421835,"Industrials",3671327
+"STX","Seagate Technology PLC",0.000595932821037643,"Information Technology",3347607
+"HAS","Hasbro Inc.",0.000592080281559195,"Consumer Discretionary",1268150
+"FAST","Fastenal Company",0.000586336495427691,"Industrials",3278324
+"MAA","Mid-America Apartment Communities Inc.",0.00058595624477787,"Real Estate",1286408
+"DOV","Dover Corporation",0.000585025631345414,"Industrials",1786103
+"TXT","Textron Inc.",0.000584135044297149,"Industrials",3058424
+"EMN","Eastman Chemical Company",0.000583594688110562,"Materials",1685955
+"CMG","Chipotle Mexican Grill Inc.",0.000575189147430312,"Consumer Discretionary",331990
+"VIAB","Viacom Inc. Class B",0.000575189147430312,"Consumer Discretionary",4041896
+"NOV","National Oilwell Varco Inc.",0.000573157808432585,"Energy",4342085
+"CNP","CenterPoint Energy Inc.",0.000568965044688507,"Utilities",4861948
+"COO","Cooper Companies Inc.",0.000568764912767549,"Health Care",553764
+"XL","XL Group Ltd",0.000556977142623103,"Financials",3075418
+"ALB","Albemarle Corporation",0.000554605579359747,"Materials",1267860
+"KMX","CarMax Inc.",0.000552063903963576,"Consumer Discretionary",2144338
+"ALGN","Align Technology Inc.",0.000551793725870282,"Health Care",861640
+"DHI","D.R. Horton Inc.",0.000548371470021894,"Consumer Discretionary",3879654
+"MKC","McCormick & Company Incorporated",0.000545009253749794,"Consumer Staples",1303359
+"IT","Gartner Inc.",0.000544608989907878,"Information Technology",1052912
+"COG","Cabot Oil & Gas Corporation",0.000539565665499727,"Energy",5447804
+"ARNC","Arconic Inc.",0.000538875210372421,"Industrials",5057360
+"ALK","Alaska Air Group Inc.",0.000534162103633852,"Industrials",1397313
+"SNPS","Synopsys Inc.",0.000532801206571336,"Information Technology",1717452
+"WYNN","Wynn Resorts Limited",0.000529859267333248,"Consumer Discretionary",918197
+"CTAS","Cintas Corporation",0.000529428983703188,"Industrials",980612
+"DRI","Darden Restaurants Inc.",0.000528068086640671,"Consumer Discretionary",1426517
+"HES","Hess Corporation",0.000526557090637435,"Energy",3048647
+"CA","CA Inc.",0.000524445698871325,"Information Technology",3593668
+"WYN","Wyndham Worldwide Corporation",0.000523935362472881,"Consumer Discretionary",1203146
+"PNR","Pentair plc",0.000523284933729767,"Industrials",1911147
+"KSU","Kansas City Southern",0.000520793291313835,"Industrials",1225527
+"ARE","Alexandria Real Estate Equities Inc.",0.000520603165988925,"Real Estate",1034716
+"SLG","SL Green Realty Corp.",0.000520353001087727,"Real Estate",1168182
+"AMD","Advanced Micro Devices Inc.",0.000520112842782577,"Information Technology",8798092
+"NTAP","NetApp Inc.",0.000516560501185566,"Information Technology",3105495
+"JNPR","Juniper Networks Inc.",0.000512007499983764,"Information Technology",4338096
+"PRGO","Perrigo Co. Plc",0.00051082672165011,"Health Care",1626504
+"IFF","International Flavors & Fragrances Inc.",0.000510416451212146,"Materials",898593
+"CINF","Cincinnati Financial Corporation",0.000509225666282443,"Financials",1713574
+"LEN","Lennar Corporation Class A",0.000506764043654656,"Consumer Discretionary",2330567
+"CBG","CBRE Group Inc. Class A",0.000505943502778727,"Real Estate",3430613
+"UDR","UDR Inc.",0.00049953928130806,"Real Estate",3018313
+"ANSS","ANSYS Inc.",0.000498678714047939,"Information Technology",975600
+"RE","Everest Re Group Ltd.",0.000496567322281829,"Financials",468640
+"CPB","Campbell Soup Company",0.000495066332874641,"Consumer Staples",2214704
+"UNM","Unum Group",0.000494455930515718,"Financials",2627306
+"UHS","Universal Health Services Inc. Class B",0.000489652764412718,"Health Care",1016786
+"AJG","Arthur J. Gallagher & Co.",0.000487181135188882,"Financials",2059160
+"OKE","ONEOK Inc.",0.000486750851558822,"Energy",2371855
+"DVA","DaVita Inc.",0.000483088437405284,"Health Care",1784474
+"ETFC","E*TRADE Financial Corporation",0.000480716874141928,"Financials",3179485
+"TIF","Tiffany & Co.",0.000478405350454859,"Consumer Discretionary",1249286
+"FBHS","Fortune Brands Home & Security Inc.",0.000476704229126713,"Industrials",1729974
+"RJF","Raymond James Financial Inc.",0.000475973747615215,"Financials",1489032
+"EXPD","Expeditors International of Washington Inc.",0.000475283292487909,"Industrials",2057858
+"FMC","FMC Corporation",0.000471480785989701,"Materials",1511263
+"VAR","Varian Medical Systems Inc.",0.000471250634280599,"Health Care",1075479
+"TSS","Total System Services Inc.",0.000469089209534249,"Information Technology",1913199
+"HOG","Harley-Davidson Inc.",0.000468348721426703,"Consumer Discretionary",2021245
+"LKQ","LKQ Corporation",0.000468058530141313,"Consumer Discretionary",3476614
+"SCG","SCANA Corporation",0.000467828378432211,"Utilities",1614644
+"XYL","Xylem Inc.",0.000467378081610055,"Industrials",2061999
+"EXR","Extra Space Storage Inc.",0.000464786373233644,"Real Estate",1414686
+"MRO","Marathon Oil Corporation",0.000462614941891246,"Energy",9617110
+"PNW","Pinnacle West Capital Corporation",0.000459923167554357,"Utilities",1255028
+"EQT","EQT Corporation",0.000459472870732201,"Energy",1960011
+"IPG","Interpublic Group of Companies Inc.",0.00045909262008238,"Consumer Discretionary",4537810
+"GWW","W.W. Grainger Inc.",0.000456550944686209,"Industrials",620442
+"LNT","Alliant Energy Corp",0.000452037969868598,"Utilities",2614001
+"CHRW","C.H. Robinson Worldwide Inc.",0.0004517878049674,"Industrials",1616539
+"WU","Western Union Company",0.000451387541125484,"Information Technology",5644032
+"HRL","Hormel Foods Corporation",0.000443412284075294,"Consumer Staples",3041870
+"AMG","Affiliated Managers Group Inc.",0.000437528405599119,"Financials",650297
+"FRT","Federal Realty Investment Trust",0.000431194230300787,"Real Estate",826514
+"COTY","Coty Inc. Class A",0.000430663880710248,"Consumer Staples",5393352
+"REG","Regency Centers Corporation",0.000426491130158266,"Real Estate",1673955
+"PVH","PVH Corp.",0.000425870721203296,"Consumer Discretionary",923953
+"AKAM","Akamai Technologies Inc.",0.000425340371612756,"Information Technology",1987372
+"QRVO","Qorvo Inc.",0.000423659263476706,"Information Technology",1451961
+"SNA","Snap-on Incorporated",0.000423409098575508,"Industrials",657020
+"URI","United Rentals Inc.",0.000421207647444966,"Industrials",962905
+"SEE","Sealed Air Corporation",0.000418425813743645,"Materials",2237208
+"XEC","Cimarex Energy Co.",0.000415854118559331,"Energy",1071797
+"AAP","Advance Auto Parts Inc.",0.000414613300649389,"Consumer Discretionary",829965
+"BF.B","Brown-Forman Corporation Class B",0.000413482555295974,"Consumer Staples",2026385
+"IRM","Iron Mountain Inc.",0.000404976948655245,"Real Estate",2812042
+"GT","Goodyear Tire & Rubber Company",0.000404946928867101,"Consumer Discretionary",2884474
+"ZION","Zions Bancorporation",0.000404576684813328,"Financials",2312772
+"HBI","Hanesbrands Inc.",0.000404006308838597,"Consumer Discretionary",4284833
+"FFIV","F5 Networks Inc.",0.00040264541177608,"Information Technology",742454
+"TMK","Torchmark Corporation",0.000401054363004462,"Financials",1270221
+"VRSN","VeriSign Inc.",0.000399803538498472,"Information Technology",1019900
+"NI","NiSource Inc",0.000399613413173562,"Utilities",3711168
+"BWA","BorgWarner Inc.",0.000393369297239661,"Consumer Discretionary",2288562
+"LUK","Leucadia National Corporation",0.000392658828920259,"Financials",3766233
+"CBOE","CBOE Holdings Inc.",0.000381611546883359,"Financials",1030411
+"MOS","Mosaic Company",0.000381591533691263,"Materials",3981936
+"NDAQ","Nasdaq Inc.",0.000376618255455449,"Financials",1292213
+"AVY","Avery Dennison Corporation",0.000371224700185621,"Materials",1010565
+"ALLE","Allegion PLC",0.000368963209478792,"Industrials",1085808
+"AYI","Acuity Brands Inc.",0.000364440228065134,"Industrials",493108
+"JBHT","J.B. Hunt Transport Services Inc.",0.000363759779533875,"Industrials",1004739
+"AES","AES Corporation",0.000359276824504409,"Utilities",7449634
+"KIM","Kimco Realty Corporation",0.0003573955844474,"Real Estate",4761811
+"PKI","PerkinElmer Inc.",0.000350681158499248,"Health Care",1228001
+"MAC","Macerich Company",0.000341775288016602,"Real Estate",1425984
+"EVHC","Envision Healthcare Corp.",0.000336381732746775,"Health Care",1329430
+"LEG","Leggett & Platt Incorporated",0.000336041508481146,"Consumer Discretionary",1531036
+"TSCO","Tractor Supply Company",0.00033164861281611,"Consumer Discretionary",1509856
+"MAT","Mattel Inc.",0.000331528533663535,"Consumer Discretionary",3842618
+"PHM","PulteGroup Inc.",0.000330187649793114,"Consumer Discretionary",3277242
+"M","Macy's Inc",0.000325184351769156,"Consumer Discretionary",3500039
+"AIV","Apartment Investment and Management Company Class A",0.000323273091924004,"Real Estate",1769933
+"KSS","Kohl's Corporation",0.000311595394336085,"Consumer Discretionary",2016978
+"FL","Foot Locker Inc.",0.000309754180663268,"Consumer Discretionary",1545826
+"HRB","H&R Block Inc.",0.000309524028954166,"Consumer Discretionary",2374085
+"SRCL","Stericycle Inc.",0.000307993019758834,"Industrials",960251
+"JEC","Jacobs Engineering Group Inc.",0.000304870961791884,"Industrials",1383757
+"CF","CF Industries Holdings Inc.",0.000302909668966493,"Materials",2645014
+"SNI","Scripps Networks Interactive Inc. Class A",0.000301858976381461,"Consumer Discretionary",1073512
+"XRX","Xerox Corporation",0.000293143231223726,"Information Technology",2470641
+"RHI","Robert Half International Inc.",0.000292712947593665,"Industrials",1478354
+"FLR","Fluor Corporation",0.000287739669357851,"Industrials",1567506
+"PBCT","People's United Financial Inc.",0.000283827090303115,"Financials",3950764
+"GRMN","Garmin Ltd.",0.00028351688582563,"Consumer Discretionary",1325230
+"SPLS","Staples Inc.",0.000283216687944192,"Consumer Discretionary",7307487
+"KORS","Michael Kors Holdings Ltd",0.000276852492857717,"Consumer Discretionary",1877760
+"FLS","Flowserve Corporation",0.000272839847842502,"Industrials",1470639
+"AIZ","Assurant Inc.",0.000269367559013875,"Financials",637694
+"HP","Helmerich & Payne Inc.",0.000268557024733994,"Energy",1220558
+"JWN","Nordstrom Inc.",0.000265865250397104,"Consumer Discretionary",1327624
+"DISCK","Discovery Communications Inc. Class C",0.000258450362725598,"Consumer Discretionary",2472058
+"NFX","Newfield Exploration Company",0.000257369650352423,"Energy",2240017
+"NRG","NRG Energy Inc.",0.000256599142456733,"Utilities",3536784
+"NWSA","News Corporation Class A",0.000243680626958872,"Consumer Discretionary",4297896
+"GPS","Gap Inc.",0.000233393846221614,"Consumer Discretionary",2546347
+"NAVI","Navient Corp",0.000230872184017539,"Financials",3467337
+"FLIR","FLIR Systems Inc.",0.000226719446657653,"Information Technology",1551311
+"PWR","Quanta Services Inc.",0.000226139064086874,"Industrials",1714212
+"CSRA","CSRA Inc.",0.00022135591117597,"Information Technology",1662725
+"MNK","Mallinckrodt Plc",0.000219934974537166,"Health Care",1138121
+"BBBY","Bed Bath & Beyond Inc.",0.000216482698900634,"Consumer Discretionary",1750061
+"RRC","Range Resources Corporation",0.00019868096453139,"Energy",2139361
+"RL","Ralph Lauren Corporation Class A",0.000198520858994623,"Consumer Discretionary",654264
+"TRIP","TripAdvisor Inc.",0.000198520858994623,"Consumer Discretionary",1287473
+"SIG","Signet Jewelers Limited",0.000193797745660007,"Consumer Discretionary",795281
+"MUR","Murphy Oil Corporation",0.000188984572960959,"Energy",1822925
+"PDCO","Patterson Companies Inc.",0.000188384177198084,"Health Care",943863
+"DISCA","Discovery Communications Inc. Class A",0.000182690424046819,"Consumer Discretionary",1697906
+"UAA","Under Armour Inc. Class A",0.000181709777634123,"Consumer Discretionary",2054444
+"UA","Under Armour Inc. Class C",0.000169501730455664,"Consumer Discretionary",2067622
+"CHK","Chesapeake Energy Corporation",0.000161626539365954,"Energy",8477158
+"RIG","Transocean Ltd.",0.000149158320690249,"Energy",4419310
+"AN","AutoNation Inc.",0.000123951705245547,"Consumer Discretionary",751804
+"NWS","News Corporation Class B",7.33683622233268e-05,"Consumer Discretionary",1251645
