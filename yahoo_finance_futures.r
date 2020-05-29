@@ -35,4 +35,4 @@ close_price <- price_df %>%
   slice(n())
 
 # Save the File
-write.csv('futures_closing_price.csv', row.names = FALSE)
+write.csv(close_price, 'futures_closing_price.csv', row.names = FALSE)
