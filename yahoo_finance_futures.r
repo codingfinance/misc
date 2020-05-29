@@ -1,6 +1,10 @@
+# This script will get the closing price of various futures contracts
+
 library(tidyquant)
 library(timetk)
 library(rvest)
+library(tidyverse)
+library(lubridate)
 
 my_url = "https://finance.yahoo.com/commodities/"
 
@@ -23,14 +27,12 @@ tickers <- df %>%
   .[[1]]
 
 price_df <- tq_get(tickers,
-                   from = "2000-1-1",
+                   from = today() - 10,
                    get = "stock.prices")
 
-price_df %>%
-  filter(symbol == "ES=F") %>%
-  ggplot(aes(x = date, y = adjusted, color = symbol)) +
-  geom_line()
+close_price <- price_df %>%
+  group_by(symbol) %>%
+  slice(n())
 
-
-
-
+# Save the File
+write.csv('futures_closing_price.csv', row.names = FALSE)
