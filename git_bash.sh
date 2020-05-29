@@ -10,4 +10,8 @@ git push
 " >> my_file.txt
 
 bash my_file.txt
-rm my_file.txt  
+rm my_file.txt
+
+git add .
+git commit -m 'my commit'
+git push
