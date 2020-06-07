@@ -12,7 +12,7 @@ echo "
 #! /bin/bash
 
 git add .
-git commit -m 'my commit'
+git commit -m 'Get Fama French data'
 git push
 " >> my_file.txt
 
