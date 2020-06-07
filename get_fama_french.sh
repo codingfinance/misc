@@ -2,7 +2,7 @@
 
 # Run the get fama french file
 
-conda activate nlp_course
+source activate nlp_course
 python get_fama_french.py
 
 # Create a file to commit to github
