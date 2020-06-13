@@ -2,6 +2,7 @@
 
 # Run the futures_closing_price file
 
+git pull
 Rscript yahoo_finance_futures.r
 
 # Create a file to commit to github

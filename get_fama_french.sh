@@ -1,7 +1,7 @@
 #! /bin/bash
 
 # Run the get fama french file
-
+git pull
 source activate nlp_course
 python get_fama_french.py
 
