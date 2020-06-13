@@ -38,6 +38,8 @@ raw_df <- raw_df %>%
   mutate(symbol = if_else(symbol == 'BRKB', 'BRK-B', symbol)) %>%
   filter(!symbol %in% c('GOOGL', 'FOX'))
 
+ write.csv(raw_df, 'spx_components.csv',row.names = FALSE)
+
 
 
 
